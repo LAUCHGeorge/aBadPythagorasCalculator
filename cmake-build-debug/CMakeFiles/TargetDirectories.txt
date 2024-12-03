@@ -1,0 +1,3 @@
+C:/Users/lauch/CLionProjects/aBadPythagorasCalculator/cmake-build-debug/CMakeFiles/aBadPythagorasCalculator.dir
+C:/Users/lauch/CLionProjects/aBadPythagorasCalculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lauch/CLionProjects/aBadPythagorasCalculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
